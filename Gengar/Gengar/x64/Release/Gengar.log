@@ -1,0 +1,19 @@
+﻿  gengar.c
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(125,13): warning C4013: 'GetFunctionSize' sin definir; se supone que extern devuelve como resultado int
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(131,12): warning C4244: '-=': conversión de 'DWORD' a 'WORD'; posible pérdida de datos
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(137,12): warning C4244: '+=': conversión de 'DWORD' a 'WORD'; posible pérdida de datos
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(146,7): warning C4142: 'GetFunctionSize': nueva definición de tipo sin efecto
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(161,11): warning C4133: '=': tipos incompatibles, de 'PBYTE' a 'PIMAGE_NT_HEADERS'
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(162,18): warning C4133: '=': tipos incompatibles, de 'PBYTE' a 'PIMAGE_EXPORT_DIRECTORY'
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(164,13): warning C4047: '=': 'SIZE_T' es distinto en los niveles de direccionamiento indirecto de 'PBYTE'
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(183,51): warning C4244: '=': conversión de '__int64' a 'DWORD'; posible pérdida de datos
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(160,8): warning C4133: 'inicializando': tipos incompatibles, de 'HMODULE' a 'PBYTE'
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(252,3): warning C4244: 'función': conversión de 'SIZE_T' a 'ULONG'; posible pérdida de datos
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(253,3): warning C4133: 'función': tipos incompatibles, de 'SIZE_T *' a 'PULONG'
+C:\Users\divil\Documents\Archivos\ODPC\Gengar\Gengar\gengar.c(276,2): warning C4013: 'getchar' sin definir; se supone que extern devuelve como resultado int
+  Generando código
+  0 of 6 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Gengar.vcxproj -> C:\Users\divil\Documents\Archivos\ODPC\Gengar\x64\Release\Gengar.exe
